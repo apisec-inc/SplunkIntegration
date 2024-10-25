@@ -1,0 +1,15 @@
+{
+    "auth": {
+        "username": "World Bank//********",
+        "password": "*********"
+    },
+    "user_activity_logs": {
+        "enabled": true
+    },
+    "login_activity_logs": {
+        "enabled": true
+    },
+    "system_activity_logs": {
+        "enabled": false
+    }
+}
