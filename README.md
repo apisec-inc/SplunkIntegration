@@ -1,3 +1,5 @@
+# Step-by-step guide to configure Splunk with APIsec.
+
 ## Approach 1: Using a Scripted Input (With Splunk Enterprise):
 1.	Copy and place the script and config file developed by APIsec into the Splunk accessible folder.
 2.	Update the config file with the Service Account username/password (I have used a token for testing) and update the logs settings to enable which logs to fetch:
