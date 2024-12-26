@@ -1,15 +1,18 @@
 {
     "auth": {
         "username": "Org name//********",
-        "password": "*********"
+        "password": "***************"
     },
     "user_activity_logs": {
-        "enabled": true
+        "enabled": false
     },
     "login_activity_logs": {
-        "enabled": true
+        "enabled": false
     },
     "system_activity_logs": {
         "enabled": false
+    },
+    "admin_activity_logs": {
+        "enabled": true
     }
 }
